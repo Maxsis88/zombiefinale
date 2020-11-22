@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799d306b8fe52e345acb7fccdc299183, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 9c5b58685247414d86253f99217e441d
+    GuidInternal: 
+    m_lastTime: -8586120470252441656
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: d4e59e6c64a1684d977ee3471201975d
+    GuidInternal: 
+    m_lastTime: -8586120421898342768
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 22b3a1a6deb71e4fb68efc8941115488
+    GuidInternal: 
+    m_lastTime: -8586120421898412907
+    List:
+    - name: Master_Sound_Bank
+      guid: c6d4f70f6297fc4f86008ec4c5938107
+      id: 3450074912
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master_Sound_Bank
+        ObjectType: 7
+      Path: Default Work Unit\Master_Sound_Bank
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: edeb977762174e47b87c3ef9d85bdcd2
+    GuidInternal: 
+    m_lastTime: -8586120400787039195
+    List:
+    - name: Birds
+      guid: 29d81b31fd164547afd592acb19e37ab
+      id: 352130103
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Birds
+        ObjectType: 3
+      Path: Default Work Unit\Birds
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Wind
+      guid: 98953f505717c54ea198400c0caf3758
+      id: 1537061107
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Wind
+        ObjectType: 3
+      Path: Default Work Unit\Wind
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: a7f19981c2a94145abb4896f98502bef
+    GuidInternal: 
+    m_lastTime: -8586120470252721497
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 9ff3b5a9fb540f4f96563001e491293d
+    GuidInternal: 
+    m_lastTime: -8586120470252551589
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: ea8cefb2c9f35b41b016a258fabeec43
+    GuidInternal: 
+    m_lastTime: -8586120470252821436
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 1ed234513e90474a8194be671b554d37
+    GuidInternal: 
+    m_lastTime: -8586120470252851431
+    List: []
+  ExpandedItems:
+  - /coursework_WwiseProject
+  - /coursework_WwiseProject/Events
+  - /coursework_WwiseProject/Events/Default Work Unit
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 
